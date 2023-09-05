@@ -1,0 +1,19 @@
+h1 {
+    color:mediumslateblue;
+    font-size:170%;
+    font-family:Verdana, Arial, Sans-serif;
+}
+h2 {
+    font-size: large;
+    color:mediumslateblue;
+}
+body {
+    background-color:rgb(220, 221, 221);
+    font-style:normal;
+    font-family:verdana,Arial,sans-serif;
+    font-size:120%;
+}
+div {
+    border:1px solid black;
+    
+}
